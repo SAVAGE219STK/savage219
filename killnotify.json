@@ -8,6 +8,7 @@
   { "name": "[ Aya ] Cinnamoroll's Dream", "id": 52 },
   { "name": "[ Aya ] Rainbow Princess", "id": 17 },
   { "name": "[ Bijan ] Time Traveler", "id": 44 },
+  { "name": "[ Billow ] Okarun", "id": 66 },
   { "name": "[ Biron ] Yuji Itadori", "id": 24 },
   { "name": "[ Butterfly ] Doomsday Dawn", "id": 32 },
   { "name": "[ Butterfly ] Origin Saintess", "id": 7 },
@@ -20,6 +21,7 @@
   { "name": "[ Eland'orr ] Tuxedo Mask", "id": 6 },
   { "name": "[ Elsu ] Dream Train", "id": 46 },
   { "name": "[ Enzo ] Kurapika", "id": 8 },
+  { "name": "[ Gildur ] JiJi", "id": 67 },
   { "name": "[ Grakk ] Gourmet God", "id": 14 },
   { "name": "[ Hayate ] Kaito Kid", "id": 36 },
   { "name": "[ Hayate ] Mount Sumeru Holy Emperor", "id": 2 },
@@ -61,13 +63,4 @@
   { "name": "[ Yorn ] Edogawa Conan", "id": 35 },
   { "name": "[ Yue ] Primordial Chaos", "id": 48 },
   { "name": "[ Zanis ] God of Wealth", "id": 1 }
-  { "name": "Default 39", "id": 39 },
-  { "name": "Default 40", "id": 40 },
-  { "name": "Default 41", "id": 41 },
-  { "name": "Default 65", "id": 65 },
-  { "name": "Default 66", "id": 66 },
-  { "name": "Default 67", "id": 67 },
-  { "name": "Default 68", "id": 68 },
-  { "name": "Default 69", "id": 69 },
-  { "name": "Default 70", "id": 70 }
 ]
