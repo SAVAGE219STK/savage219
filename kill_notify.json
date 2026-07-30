@@ -1,0 +1,250 @@
+[
+  {
+    "name": "[ Airi ] Dimension Breaker",
+    "id": 12
+  },
+  {
+    "name": "[ Alice ] Eternal Sailor Chibi Moon",
+    "id": 5
+  },
+  {
+    "name": "[ Allain ] Divine Lion Dancer",
+    "id": 30
+  },
+  {
+    "name": "[ Aoi ] Misaka Titan",
+    "id": 60
+  },
+  {
+    "name": "[ Arthur ] Pompompurin's Oath",
+    "id": 53
+  },
+  {
+    "name": "[ Aya ] Cinnamoroll's Dream",
+    "id": 52
+  },
+  {
+    "name": "[ Aya ] Rainbow Princess",
+    "id": 17
+  },
+  {
+    "name": "[ Bijan ] Time Traveler",
+    "id": 44
+  },
+  {
+    "name": "[ Biron ] Yuji Itadori",
+    "id": 24
+  },
+  {
+    "name": "[ Butterfly ] Apocalypse Dawn",
+    "id": 32
+  },
+  {
+    "name": "[ Butterfly ] Genesis Saint",
+    "id": 7
+  },
+  {
+    "name": "[ Capheny ] Bugcat Assemble",
+    "id": 43
+  },
+  {
+    "name": "[ Capheny ] Qianyuan Palace Master",
+    "id": 29
+  },
+  {
+    "name": "[ Cresht ] Eren Titan",
+    "id": 62
+  },
+  {
+    "name": "[ Default ]",
+    "id": 0
+  },
+  {
+    "name": "[ Diao Chan ] Eternal Sailor Moon",
+    "id": 4
+  },
+  {
+    "name": "[ Diao Chan ] Sun & Moon Divine Spirit",
+    "id": 58
+  },
+  {
+    "name": "[ Eland'orr ] Dream Train",
+    "id": 47
+  },
+  {
+    "name": "[ Eland'orr ] Tuxedo Mask",
+    "id": 6
+  },
+  {
+    "name": "[ Elsu ] Dream Train",
+    "id": 46
+  },
+  {
+    "name": "[ Enzo ] Kurapika",
+    "id": 8
+  },
+  {
+    "name": "[ Grakk ] Gourmet God",
+    "id": 14
+  },
+  {
+    "name": "[ Hayate ] Dimension Breaker",
+    "id": 64
+  },
+  {
+    "name": "[ Hayate ] Kaito Kid",
+    "id": 36
+  },
+  {
+    "name": "[ Hayate ] Mount Sumeru Divine Emperor",
+    "id": 2
+  },
+  {
+    "name": "[ Iggy ] Rimuru Tempest",
+    "id": 50
+  },
+  {
+    "name": "[ Ilumia ] Yin-Yang Dragon Empress",
+    "id": 26
+  },
+  {
+    "name": "[ Kaine ] Invasion of Another World",
+    "id": 37
+  },
+  {
+    "name": "[ Krixi ] Time Witch",
+    "id": 19
+  },
+  {
+    "name": "[ Lauriel ] Dimension Breaker",
+    "id": 49
+  },
+  {
+    "name": "[ Liliana ] Supreme Magic",
+    "id": 23
+  },
+  {
+    "name": "[ Maloch ] Card Battle Fighter",
+    "id": 63
+  },
+  {
+    "name": "[ Marja ] Xi Shi",
+    "id": 56
+  },
+  {
+    "name": "[ Murad ] Celestial Sword Saint",
+    "id": 21
+  },
+  {
+    "name": "[ Murad ] Fireworks God",
+    "id": 57
+  },
+  {
+    "name": "[ Murad ] Peerless Divine Weapon",
+    "id": 13
+  },
+  {
+    "name": "[ Nakroth ] Demon Spear Hunter Emperor",
+    "id": 16
+  },
+  {
+    "name": "[ Nakroth ] Dimension Breaker",
+    "id": 45
+  },
+  {
+    "name": "[ Nakroth ] Killua",
+    "id": 9
+  },
+  {
+    "name": "[ Nakroth ] Levi Titan",
+    "id": 61
+  },
+  {
+    "name": "[ Nakroth ] Lightning Producer",
+    "id": 18
+  },
+  {
+    "name": "[ Nakroth ] White-Faced War Spear",
+    "id": 20
+  },
+  {
+    "name": "[ Natalya ] Kuromi's Heart",
+    "id": 54
+  },
+  {
+    "name": "[ Paine ] Megumi Fushiguro",
+    "id": 34
+  },
+  {
+    "name": "[ Qi ] Milim Nava",
+    "id": 51
+  },
+  {
+    "name": "[ Raz ] Gon",
+    "id": 10
+  },
+  {
+    "name": "[ Stuart ] Ultimate Supervillain",
+    "id": 42
+  },
+  {
+    "name": "[ Tel'Annas ] Dimension Breaker",
+    "id": 38
+  },
+  {
+    "name": "[ Tel'Annas ] Divine Radiance Anthem",
+    "id": 31
+  },
+  {
+    "name": "[ Tulen ] Bai Ze of Heavenly Secrets",
+    "id": 59
+  },
+  {
+    "name": "[ Tulen ] Satoru Gojo",
+    "id": 25
+  },
+  {
+    "name": "[ Valhein ] Dimension Breaker",
+    "id": 27
+  },
+  {
+    "name": "[ Veera ] My Melody's Love",
+    "id": 55
+  },
+  {
+    "name": "[ Veera ] Witching Hour",
+    "id": 22
+  },
+  {
+    "name": "[ Veres ] Glazed Dragon Matriarch",
+    "id": 15
+  },
+  {
+    "name": "[ Violet ] Dimension Breaker",
+    "id": 28
+  },
+  {
+    "name": "[ Violet ] Nobara Kugisaki",
+    "id": 33
+  },
+  {
+    "name": "[ Wukong ] New Year War God",
+    "id": 3
+  },
+  {
+    "name": "[ Yena ] Mystic Ninth Heaven",
+    "id": 11
+  },
+  {
+    "name": "[ Yorn ] Edogawa Conan",
+    "id": 35
+  },
+  {
+    "name": "[ Yue ] Primordial Chaos Deity",
+    "id": 48
+  },
+  {
+    "name": "[ Zhao Yun ] God of Wealth",
+    "id": 1
+  }
+]
