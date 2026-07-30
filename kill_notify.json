@@ -61,4 +61,13 @@
   { "name": "[ Yorn ] Edogawa Conan", "id": 35 },
   { "name": "[ Yue ] Primordial Chaos", "id": 48 },
   { "name": "[ Zanis ] God of Wealth", "id": 1 }
+  { "name": "Default 39", "id": 39 },
+  { "name": "Default 40", "id": 40 },
+  { "name": "Default 41", "id": 41 },
+  { "name": "Default 65", "id": 65 },
+  { "name": "Default 66", "id": 66 },
+  { "name": "Default 67", "id": 67 },
+  { "name": "Default 68", "id": 68 },
+  { "name": "Default 69", "id": 69 },
+  { "name": "Default 70", "id": 70 }
 ]
