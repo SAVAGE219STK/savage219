@@ -1,298 +1,66 @@
 [
-  {
-    "name": "[ Default ]",
-    "id": 0
-  },
-  {
-    "name": "[ Airi ] Dimensional Guardian",
-    "id": 12
-  },
-  {
-    "name": "[ Alice ] Eternal Sailor Chibi Moon",
-    "id": 5
-  },
-  {
-    "name": "[ Aoi ] Misaka Titan",
-    "id": 70
-  },
-  {
-    "name": "[ Arthur ] Pompompurin's Oath",
-    "id": 58
-  },
-  {
-    "name": "[ Aya ] Cinnamoroll's Dream",
-    "id": 60
-  },
-  {
-    "name": "[ Aya ] Rainbow Princess",
-    "id": 16
-  },
-  {
-    "name": "[ Bijan ] Time Traveling",
-    "id": 39
-  },
-  {
-    "name": "[ Billow ] Auto Archon",
-    "id": 28
-  },
-  {
-    "name": "[ Billow ] T-Rex Invincible",
-    "id": 56
-  },
-  {
-    "name": "[ Biron ] Yuji Itadori",
-    "id": 22
-  },
-  {
-    "name": "[ Bolt Baron ] Heavenly Mansion - Fate Judge",
-    "id": 29
-  },
-  {
-    "name": "[ Butterfly ] Apocalyptic Dawn",
-    "id": 33
-  },
-  {
-    "name": "[ Butterfly ] Goldfish Goddess",
-    "id": 6
-  },
-  {
-    "name": "[ Butterfly ] Sacred Maiden Origin",
-    "id": 7
-  },
-  {
-    "name": "[ Capheny ] Bugcat Assemble",
-    "id": 49
-  },
-  {
-    "name": "[ Capheny ] Thousand Source Electric Lord",
-    "id": 27
-  },
-  {
-    "name": "[ Cresht ] Eren Titan",
-    "id": 71
-  },
-  {
-    "name": "[ Default ]",
-    "id": 0
-  },
-  {
-    "name": "[ Diao Chan ] Eternal Sailor Moon",
-    "id": 2
-  },
-  {
-    "name": "[ Diao Chan ] Moon Sacred Spirit",
-    "id": 64
-  },
-  {
-    "name": "[ Dolia ] Horse Song of Beginning",
-    "id": 67
-  },
-  {
-    "name": "[ Dolia ] Love Diary",
-    "id": 47
-  },
-  {
-    "name": "[ Eland'orr ] Tuxedo Mask",
-    "id": 3
-  },
-  {
-    "name": "[ Elandor ] Dream Journey",
-    "id": 53
-  },
-  {
-    "name": "[ Enzo ] Kurapika",
-    "id": 9
-  },
-  {
-    "name": "[ Florentino ] Amber Era",
-    "id": 37
-  },
-  {
-    "name": "[ Hayate ] Dimensional Guardian",
-    "id": 76
-  },
-  {
-    "name": "[ Hayate ] Super Thief Kaito Kid",
-    "id": 46
-  },
-  {
-    "name": "[ Iggy ] Rimuru Tempest",
-    "id": 54
-  },
-  {
-    "name": "[ Ilumia ] Twin Dragons Empress",
-    "id": 24
-  },
-  {
-    "name": "[ Krixi ] Kimono",
-    "id": 69
-  },
-  {
-    "name": "[ Krixi ] Time Witch",
-    "id": 19
-  },
-  {
-    "name": "[ Lauriel ] Dimensional Guardian",
-    "id": 1
-  },
-  {
-    "name": "[ Lauriel ] Horse Ascending Nine Generations",
-    "id": 65
-  },
-  {
-    "name": "[ Liliana ] Supreme Magic",
-    "id": 21
-  },
-  {
-    "name": "[ Marja ] Hi Phi",
-    "id": 62
-  },
-  {
-    "name": "[ Murad ] Absolute Divine Soldier",
-    "id": 11
-  },
-  {
-    "name": "[ Murad ] Heaven Sword Saint",
-    "id": 20
-  },
-  {
-    "name": "[ Nakroth ] Dimensional Guardian",
-    "id": 52
-  },
-  {
-    "name": "[ Nakroth ] Ghost Blade Emperor",
-    "id": 15
-  },
-  {
-    "name": "[ Nakroth ] Killua",
-    "id": 10
-  },
-  {
-    "name": "[ Nakroth ] Levi Titan",
-    "id": 72
-  },
-  {
-    "name": "[ Nakroth ] White Face Battle Wound",
-    "id": 17
-  },
-  {
-    "name": "[ Natalya ] Blood Sacrifice Song",
-    "id": 77
-  },
-  {
-    "name": "[ Natalya ] Kuromi's Heart",
-    "id": 59
-  },
-  {
-    "name": "[ Omen ] Fierce Fire Heaven Scope",
-    "id": 63
-  },
-  {
-    "name": "[ Paine ] Megumi Fushiguro",
-    "id": 35
-  },
-  {
-    "name": "[ Paine ] Nine Mountain Sacred Willow",
-    "id": 74
-  },
-  {
-    "name": "[ Qi ] Ainme Titan",
-    "id": 73
-  },
-  {
-    "name": "[ Qi ] Milim Nava",
-    "id": 55
-  },
-  {
-    "name": "[ Raz ] Gon",
-    "id": 8
-  },
-  {
-    "name": "[ Rouie ] Time Messenger",
-    "id": 40
-  },
-  {
-    "name": "[ Stuart ] Super Boss Villain",
-    "id": 42
-  },
-  {
-    "name": "[ Tel'Annas ] Amber Era",
-    "id": 38
-  },
-  {
-    "name": "[ Tel'Annas ] Dimensional Guardian",
-    "id": 44
-  },
-  {
-    "name": "[ Tel'Annas ] Indigo Light Sacred Tune",
-    "id": 32
-  },
-  {
-    "name": "[ Tulen ] Heaven Machine White Zhe",
-    "id": 75
-  },
-  {
-    "name": "[ Tulen ] Satoru Gojo",
-    "id": 23
-  },
-  {
-    "name": "[ Valhein ] Dimensional Guardian",
-    "id": 25
-  },
-  {
-    "name": "[ Valhein ] Horse Journey Ten Thousand Miles",
-    "id": 68
-  },
-  {
-    "name": "[ Veera ] Iron Kill Supreme Life",
-    "id": 30
-  },
-  {
-    "name": "[ Veera ] My Melody's Love",
-    "id": 61
-  },
-  {
-    "name": "[ Veres ] Glass Dragon Mother",
-    "id": 14
-  },
-  {
-    "name": "[ Violet ] Dimensional Guardian",
-    "id": 26
-  },
-  {
-    "name": "[ Violet ] Dragon Goddess Sister",
-    "id": 4
-  },
-  {
-    "name": "[ Violet ] Nobara Kugisaki",
-    "id": 34
-  },
-  {
-    "name": "[ Volkath ] Magic Shadow Divine Blade",
-    "id": 50
-  },
-  {
-    "name": "[ Yena ] Mysterious Nine Heaven",
-    "id": 13
-  },
-  {
-    "name": "[ Yena ] Town Beloved Divine Deer",
-    "id": 31
-  },
-  {
-    "name": "[ Yorn ] Conan Edogawa",
-    "id": 45
-  },
-  {
-    "name": "[ Yue ] Help Demon God",
-    "id": 48
-  },
-  {
-    "name": "[ Zanis ] Undefeated War God",
-    "id": 43
-  },
-  {
-    "name": "[ Zephys ] Amber Era",
-    "id": 36
-  }
+  { "name": "[ Default ]", "id": 0 },
+  { "name": "[ Airi ] Dimension Breaker", "id": 12 },
+  { "name": "[ Alice ] Eternal Sailor Chibi Moon", "id": 5 },
+  { "name": "[ Allain ] Divine Lion Dancer", "id": 30 },
+  { "name": "[ Aoi ] Misaka Titan", "id": 60 },
+  { "name": "[ Arthur ] Pompompurin's Oath", "id": 53 },
+  { "name": "[ Aya ] Cinnamoroll's Dream", "id": 52 },
+  { "name": "[ Aya ] Rainbow Princess", "id": 17 },
+  { "name": "[ Bijan ] Time Traveler", "id": 44 },
+  { "name": "[ Billow ] Okarun", "id": 77 },
+  { "name": "[ Biron ] Yuji Itadori", "id": 24 },
+  { "name": "[ Butterfly ] Apocalypse Dawn", "id": 32 },
+  { "name": "[ Butterfly ] Genesis Saint", "id": 7 },
+  { "name": "[ Capheny ] Bugcat Assemble", "id": 43 },
+  { "name": "[ Capheny ] Qianyuan Palace Master", "id": 29 },
+  { "name": "[ Cresht ] Eren Titan", "id": 62 },
+  { "name": "[ Diao Chan ] Eternal Sailor Moon", "id": 4 },
+  { "name": "[ Diao Chan ] Sun & Moon Divine Spirit", "id": 58 },
+  { "name": "[ Eland'orr ] Dream Train", "id": 47 },
+  { "name": "[ Eland'orr ] Tuxedo Mask", "id": 6 },
+  { "name": "[ Elsu ] Dream Train", "id": 46 },
+  { "name": "[ Enzo ] Kurapika", "id": 8 },
+  { "name": "[ Gildur ] JiJi", "id": 78 },
+  { "name": "[ Grakk ] Gourmet God", "id": 14 },
+  { "name": "[ Hayate ] Dimension Breaker", "id": 64 },
+  { "name": "[ Hayate ] Kaito Kid", "id": 36 },
+  { "name": "[ Hayate ] Mount Sumeru Divine Emperor", "id": 2 },
+  { "name": "[ Iggy ] Rimuru Tempest", "id": 50 },
+  { "name": "[ Ilumia ] Yin-Yang Dragon Empress", "id": 26 },
+  { "name": "[ Kaine ] Invasion of Another World", "id": 37 },
+  { "name": "[ Krixi ] Time Witch", "id": 19 },
+  { "name": "[ Lauriel ] Dimension Breaker", "id": 49 },
+  { "name": "[ Liliana ] Supreme Magic", "id": 23 },
+  { "name": "[ Maloch ] Card Battle Fighter", "id": 63 },
+  { "name": "[ Marja ] Xi Shi", "id": 56 },
+  { "name": "[ Murad ] Celestial Sword Saint", "id": 21 },
+  { "name": "[ Murad ] Fireworks God", "id": 57 },
+  { "name": "[ Murad ] Peerless Divine Weapon", "id": 13 },
+  { "name": "[ Nakroth ] Demon Spear Hunter Emperor", "id": 45 },
+  { "name": "[ Nakroth ] Dimension Breaker", "id": 61 },
+  { "name": "[ Nakroth ] Killua", "id": 9 },
+  { "name": "[ Nakroth ] Levi Titan", "id": 54 },
+  { "name": "[ Nakroth ] Lightning Producer", "id": 18 },
+  { "name": "[ Nakroth ] White-Faced War Spear", "id": 20 },
+  { "name": "[ Natalya ] Kuromi's Heart", "id": 3 },
+  { "name": "[ Paine ] Megumi Fushiguro", "id": 34 },
+  { "name": "[ Qi ] Milim Nava", "id": 51 },
+  { "name": "[ Raz ] Gon", "id": 10 },
+  { "name": "[ Stuart ] Ultimate Supervillain", "id": 42 },
+  { "name": "[ Tel'Annas ] Dimension Breaker", "id": 1 },
+  { "name": "[ Tel'Annas ] Divine Radiance Anthem", "id": 31 },
+  { "name": "[ Tulen ] Bai Ze of Heavenly Secrets", "id": 59 },
+  { "name": "[ Tulen ] Satoru Gojo", "id": 25 },
+  { "name": "[ Valhein ] Dimension Breaker", "id": 27 },
+  { "name": "[ Veera ] My Melody's Love", "id": 55 },
+  { "name": "[ Veera ] Witching Hour", "id": 22 },
+  { "name": "[ Veres ] Glazed Dragon Matriarch", "id": 15 },
+  { "name": "[ Violet ] Dimension Breaker", "id": 28 },
+  { "name": "[ Violet ] Nobara Kugisaki", "id": 33 },
+  { "name": "[ Wukong ] New Year War God", "id": 54 },
+  { "name": "[ Yena ] Mystic Ninth Heaven", "id": 11 },
+  { "name": "[ Yorn ] Edogawa Conan", "id": 35 },
+  { "name": "[ Yue ] Primordial Chaos Deity", "id": 48 },
+  { "name": "[ Zhao Yun ] God of Wealth", "id": 38 }
 ]
