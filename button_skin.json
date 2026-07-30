@@ -7,6 +7,7 @@
   { "name": "[ Aya ] Cinnamoroll's Dream", "id": 60 },
   { "name": "[ Aya ] Rainbow Princess", "id": 16 },
   { "name": "[ Bijan ] Time Traveler", "id": 39 },
+  { "name": "[ Billow ] Okarun", "id": 80 }
   { "name": "[ Billow ] Invincible T-Rex", "id": 56 },
   { "name": "[ Billow ] Heavenly General - Calamity Breaker", "id": 28 },
   { "name": "[ Biron ] Yuji Itadori", "id": 22 },
@@ -25,6 +26,7 @@
   { "name": "[ Eland'orr ] Dream Express", "id": 53 },
   { "name": "[ Enzo ] Kurapika", "id": 9 },
   { "name": "[ Florentino ] Amber Era", "id": 37 },
+  { "name": "[ Gildur ] JiJi", "id": 81 }
   { "name": "[ Hayate ] Phantom Thief Kid", "id": 46 },
   { "name": "[ Hayate ] Dimension Breaker", "id": 76 },
   { "name": "[ Iggy ] Rimuru Tempest", "id": 54 },
@@ -72,12 +74,4 @@
   { "name": "[ Yue ] Primordial Chaos", "id": 48 },
   { "name": "[ Zephys ] Amber Era", "id": 36 },
   { "name": "[ Natalya ] Blood Sacrifice Hymn", "id": 77 },
-  { "name": "Default 18", "id": 18 },
-  { "name": "Default 41", "id": 41 },
-  { "name": "Default 51", "id": 51 },
-  { "name": "Default 57", "id": 57 },
-  { "name": "Default 66", "id": 66 },
-  { "name": "Default 78", "id": 78 },
-  { "name": "Default 79", "id": 79 },
-  { "name": "Default 80", "id": 80 }
 ]
